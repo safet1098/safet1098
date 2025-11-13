@@ -14,7 +14,7 @@
 
 <br /><br />
 
-✨ *I build clean, modern, reliable applications that feel fast, look great, and work without friction.*
+*I build clean, modern, reliable applications that feel fast, look great, and work without friction.*
 
 </div>
 
@@ -58,7 +58,7 @@ Clients describe me as someone who delivers **fast, stable, and clean work** —
 
 ---
 
-## 🛠 What I Build
+## What I Build
 
 - Full modern web applications  
 - Landing pages optimized for speed and conversions  
@@ -78,7 +78,7 @@ Short jobs — done well, done fast.
 
 ---
 
-## 📂 Selected Portfolio
+## Selected Portfolio
 
 ### 🔹 **Prescripto — Medical Appointment Website**  
 Clean, accessible UI for booking doctors online.
@@ -88,8 +88,6 @@ Large, luxury-style layout with filtering and modern visual design.
 
 ### 🔹 **E-commerce Product Experience**  
 Interactive product cards, animations, and responsive design.
-
-*(More work samples available upon request.)*
 
 ---
 
@@ -103,7 +101,7 @@ Skills practiced: Node.js · React · Rendering · Web Apps · Testing · Resear
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Front-end Developer — Boosly Labs**  
 *2022 — 2024*  
@@ -119,7 +117,7 @@ Skills practiced: Node.js · React · Rendering · Web Apps · Testing · Resear
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 
 - Better animations & 3D elements (GSAP, Three.js)  
 - Cleaner developer experience using modern tools  
@@ -128,7 +126,7 @@ Skills practiced: Node.js · React · Rendering · Web Apps · Testing · Resear
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you’d like to collaborate or discuss a project, feel free to reach out.
 
