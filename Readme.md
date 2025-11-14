@@ -1,7 +1,7 @@
 <div align="center">
 
 # Full-Stack Developer 
-### Modern Web • Scalable Systems • Clean UI • Reliable Delivery  
+### Modern Web • Mobile • Scalable Systems • Clean UI • Reliable Delivery  
 
 <br />
 
